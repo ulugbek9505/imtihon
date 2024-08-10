@@ -1,0 +1,75 @@
+.bot1{
+    background-color: rebeccapurple;
+    text-align: center;
+    border-radius: 20px;
+    border: 3px solid red;
+}
+.redd{
+    color: red;
+}
+.bot3{
+    color: green;
+}
+.bot4{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.bot5{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.bot6{
+    color: green;
+}
+.bot7{
+    width: 1000px;
+    height: 30px;
+}
+.bot8{
+    color: green;
+}
+.bot9{
+    background-color: cornflowerblue;
+    color: white;
+    width: 250px;
+    height: 35px;
+}
+.bot10{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+table{
+    border: 2px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+tr ,th , td{
+    border: 1px solid white;
+}
+.bad1{
+    background-color: green;
+    color: white;
+}
+.bad2{
+    background-color:blue;
+    color: white;
+}
+.bad3{
+    background-color: red;
+    color: white;
+}
+.bad4{
+    background-color: black;
+    color: white;
+}
+.bad5{
+    background-color: red;
+    color: white;
+}
+.bad6{
+    background-color: black;
+    color: white;
+}
